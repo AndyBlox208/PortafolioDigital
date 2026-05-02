@@ -17,5 +17,13 @@ El lenguaje C es un lenguaje de programación de propósito general, eficiente y
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/d5340cc7b89ab73bb4d89a419ee9ca1b62de313b/programar-en-c-imagem-03.webp)
 ### Programacion por bloques
 La programación por bloques es un método visual para crear software arrastrando y encajando piezas gráficas (bloques) que representan comandos, eliminando la necesidad de escribir sintaxis compleja. Es ideal para principiantes y niños, ya que permite aprender lógica de programación secuencial de forma intuitiva, lúdica y sin errores de escritura.<br>
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/b0267684120f70913634114f5df87f85043cdeee/programacion_bloques.webp)
+### -Ejercicio con estructura C
+#### Plateamiento del problema
+Realice un programa que calcule la distancia de entre los puntos p1(x1,y1) y p2(x2,y2) considerando que d= ((X2-X1)^2+(Y2-Y1)^2)^ 1⁄2.
+#### Análisis del problema
+El problema nos esta pidiendo un programa que ingresando los puntos, pueda sacar la distancia de manera automanica con una formula algo diferente pero siendo la misma, nuestro objetivo es que pueda sacar distancia con cualquier dato.
+#### Diseño del algoritmo
+
 ## Unidad 2
 ## Unidad 3
