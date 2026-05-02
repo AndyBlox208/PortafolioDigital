@@ -1,13 +1,13 @@
 # Teoria de la Programación
 
 <div align="Center">
-**UNIVERSIDAD NACIONAL DE LOJA**<br>
-**Carrera:** Ingeniera en Computacion<br>
-**Asignatura:** Teoria de la programacion<br>
-**Ciclo:** 1<br>
-**Unidad:** 1<br>
-**Docente:** Lissette Geoconda López Faicán<br>
-**Estudiante:** Andy Vladimir Ordoñez Namcela<br>
+<b>UNIVERSIDAD NACIONAL DE LOJA</b><br>
+<b>Carrera:</b> Ingeniera en Computacion<br>
+<b>Asignatura:</b> Teoria de la programacion<br>
+<b>Ciclo:</b> 1<br>
+<b>Unidad:</b> 1<br>
+<b>Docente:</b> Lissette Geoconda López Faicán<br>
+<b>Estudiante:</b> Andy Vladimir Ordoñez Namcela<br>
 </div>
 
 ## Unidad 1
