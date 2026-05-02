@@ -11,5 +11,8 @@ Un diagrama de flujo (o flujograma) es una representación gráfica y secuencial
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/46c8940b65f5326a952c865bf4d497be946e7939/Flowchart-1-1024x659.jpg.webp)
 ### Prueba de escritorio
 Una prueba de escritorio es la simulación manual y paso a paso de un algoritmo, pseudocódigo o código, utilizando papel y lápiz para rastrear los valores de las variables y verificar la lógica sin ejecutarlo en la computadora. Es fundamental para detectar errores tempranos, validar la funcionalidad y entender el flujo del programa.
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4a21689305ef14497aa438351dd98c0e1878895c/EF-P1-PruebaEscritorio.png)
+### Lenguaje C
+El lenguaje C es un lenguaje de programación de propósito general, eficiente y de nivel medio. Es fundamental para desarrollar sistemas operativos, software embebido y aplicaciones de alto rendimiento, destacando por su portabilidad, rapidez y manipulación directa de la memoria.
 ## Unidad 2
 ## Unidad 3
