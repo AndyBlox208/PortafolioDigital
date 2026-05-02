@@ -25,9 +25,9 @@ Realice un programa que calcule la distancia de entre los puntos p1(x1,y1) y p2(
 El problema nos esta pidiendo un programa que ingresando los puntos, pueda sacar la distancia de manera automanica con una formula algo diferente pero siendo la misma, nuestro objetivo es que pueda sacar distancia con cualquier dato.
 #### Diseño del algoritmo
 Pseudocódigo:<br>
-![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4be6b72144f78fdfe43db7983039932255b7501f/Codigo%20PSeInt.png)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4be6b72144f78fdfe43db7983039932255b7501f/Codigo%20PSeInt.png)<br>
 Diagrama:<br>
-![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4be6b72144f78fdfe43db7983039932255b7501f/Diagrama%20PSeInt.png)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4be6b72144f78fdfe43db7983039932255b7501f/Diagrama%20PSeInt.png)<br>
 Codificacion:<br>
 ## Unidad 2
 ## Unidad 3
