@@ -29,5 +29,10 @@ Pseudocódigo:<br>
 Diagrama:<br>
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4be6b72144f78fdfe43db7983039932255b7501f/Diagrama%20PSeInt.png)<br>
 Codificacion:<br>
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/2225a9215f76d7760533f2f7b9a479b44276b920/Codificacion.png)<br>
+Prueba de escritorio:<br>
+| x1 | y1 | x2 | y2 | d |
+| :---: | :---: | :---: | :---: | :---: |
+| -4 | -3 | 2 | 5 | 10 |
 ## Unidad 2
 ## Unidad 3
