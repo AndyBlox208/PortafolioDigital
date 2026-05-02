@@ -10,9 +10,12 @@ El pseudocódigo es una forma de representar algoritmos utilizando el español s
 Un diagrama de flujo (o flujograma) es una representación gráfica y secuencial de un proceso, sistema o algoritmo. Utiliza símbolos geométricos estandarizados conectados por flechas para mostrar la secuencia de pasos, decisiones y acciones necesarias para completar una tarea de principio a fin, facilitando la comprensión de procedimientos complejos.<br>
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/46c8940b65f5326a952c865bf4d497be946e7939/Flowchart-1-1024x659.jpg.webp)
 ### Prueba de escritorio
-Una prueba de escritorio es la simulación manual y paso a paso de un algoritmo, pseudocódigo o código, utilizando papel y lápiz para rastrear los valores de las variables y verificar la lógica sin ejecutarlo en la computadora. Es fundamental para detectar errores tempranos, validar la funcionalidad y entender el flujo del programa.
+Una prueba de escritorio es la simulación manual y paso a paso de un algoritmo, pseudocódigo o código, utilizando papel y lápiz para rastrear los valores de las variables y verificar la lógica sin ejecutarlo en la computadora. Es fundamental para detectar errores tempranos, validar la funcionalidad y entender el flujo del programa.<br>
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4a21689305ef14497aa438351dd98c0e1878895c/EF-P1-PruebaEscritorio.png)
 ### Lenguaje C
-El lenguaje C es un lenguaje de programación de propósito general, eficiente y de nivel medio. Es fundamental para desarrollar sistemas operativos, software embebido y aplicaciones de alto rendimiento, destacando por su portabilidad, rapidez y manipulación directa de la memoria.
+El lenguaje C es un lenguaje de programación de propósito general, eficiente y de nivel medio. Es fundamental para desarrollar sistemas operativos, software embebido y aplicaciones de alto rendimiento, destacando por su portabilidad, rapidez y manipulación directa de la memoria.<br>
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/d5340cc7b89ab73bb4d89a419ee9ca1b62de313b/programar-en-c-imagem-03.webp)
+### Programacion por bloques
+La programación por bloques es un método visual para crear software arrastrando y encajando piezas gráficas (bloques) que representan comandos, eliminando la necesidad de escribir sintaxis compleja. Es ideal para principiantes y niños, ya que permite aprender lógica de programación secuencial de forma intuitiva, lúdica y sin errores de escritura.<br>
 ## Unidad 2
 ## Unidad 3
