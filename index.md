@@ -1,4 +1,13 @@
 # Teoria de la Programación
+<div align="center">
+**UNIVERSIDAD NACIONAL DE LOJA**
+**Carrera:** Ingeniera en Computacion
+**Asignatura:** Teoria de la programacion
+**Ciclo:** 1
+**Unidad:** 1
+**Docente:** Lissette Geoconda López Faicán
+**Estudiante:** Andy Vladimir Ordoñez Namcela
+</div>
 ## Unidad 1
 ### Algoritmo
 Un algoritmo es una secuencia ordenada definida de pasos o instrucciones para resolver un problema, realizar un cálculo o ejecutar una tarea específica. Actúa como un procedimiento sistemático que transforma datos de entrada (input) en un resultado o solución (output). Son la base de la programación y se utilizan tanto en informática como en actividades cotidianas, como una receta de cocina o el funcionamiento de las redes sociales.<br>
@@ -31,8 +40,13 @@ Diagrama:<br>
 Codificacion:<br>
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/2225a9215f76d7760533f2f7b9a479b44276b920/Codificacion.png)<br>
 Prueba de escritorio:<br>
-| x1 | y1 | x2 | y2 | d |
-| :---: | :---: | :---: | :---: | :---: |
-| -4 | -3 | 2 | 5 | 10 |
+| x1 | y1 | x2 | y2 | d | Salida |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| -4 | -3 | 2 | 5 | 10 | 10 |
+### Dificultades y reflexion critica
+No tuve ninguna dificultad a la hora de realisar este actividad.<br>
+Siento que pude entender ne manera sencilla estos temas, no se me difilcutaron demasiado y puede comprenderlos rapidamente, tuve errores en el proceso pero mientras mas practicaba cometia menos errores y mejoraba en mi manera de resolver e interpretar los problemas, espero poder seguir comprendiedo los temas de manera sencilla sin tantas dificultades y poder llegar a ser alguien en la vida.
+### Declaracion de uso de IA
+Se utilizo IA (Gemini), para extender y mejorar la claridad de los conceptos de los temas principales y haci se pueda entender mejor de lo que se trata de hablar.
 ## Unidad 2
 ## Unidad 3
