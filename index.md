@@ -9,5 +9,7 @@ El pseudocódigo es una forma de representar algoritmos utilizando el español s
 ### Diagrama de flujo
 Un diagrama de flujo (o flujograma) es una representación gráfica y secuencial de un proceso, sistema o algoritmo. Utiliza símbolos geométricos estandarizados conectados por flechas para mostrar la secuencia de pasos, decisiones y acciones necesarias para completar una tarea de principio a fin, facilitando la comprensión de procedimientos complejos.<br>
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/46c8940b65f5326a952c865bf4d497be946e7939/Flowchart-1-1024x659.jpg.webp)
+### Prueba de escritorio
+Una prueba de escritorio es la simulación manual y paso a paso de un algoritmo, pseudocódigo o código, utilizando papel y lápiz para rastrear los valores de las variables y verificar la lógica sin ejecutarlo en la computadora. Es fundamental para detectar errores tempranos, validar la funcionalidad y entender el flujo del programa.
 ## Unidad 2
 ## Unidad 3
