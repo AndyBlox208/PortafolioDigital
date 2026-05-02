@@ -5,5 +5,6 @@ Un algoritmo es un secuencia ordenada de pasos o instrucciones para resolver un 
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/33fbf43ce10b28f08515b6d7bb7d1396071f0882/LampFlowchart-es.svg)
 ### Pseudocodigo
 El pseudocódigo es una forma de representar algoritmos utilizando el español sin las reglas estrictas de un lenguaje de programación real. Sirve como borrador para planificar la lógica de un programa, facilitando el desarrollo de algoritmos antes de codificar. No es ejecutable, pero es ideal para principiantes.
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/5b313a50ec5d23c8e7de8887c3f801cb4eecfd52/10-1.jpg)
 ## Unidad 2
 ## Unidad 3
