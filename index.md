@@ -1,7 +1,7 @@
 # Teoria de la Programación
 
 <div align="Center">
-<b>UNIVERSIDAD NACIONAL DE LOJA</b><br>
+<h3><b>UNIVERSIDAD NACIONAL DE LOJA</b></h3><br>
 <b>Carrera:</b> Ingeniera en Computacion<br>
 <b>Asignatura:</b> Teoria de la programacion<br>
 <b>Ciclo:</b> 1<br>
