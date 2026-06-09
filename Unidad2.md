@@ -20,4 +20,17 @@ Sino<br>
 &emsp;// Acciones si la condición es FALSA<br>
 FinSi<br>
 #### Diagrama de flujo:
-![Imagen alt](https://www.tutorialesprogramacionya.com/javaya/detalleconcepto.php?codigo=80&punto=&inicio=0)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/e1974b2b5aff36a8a919d43d165f482372cb9a6a/foto033.jpg)
+### 3. Estructura Condicional Anidada (Estructuras dentro de otras)
+¿Qué pasa si tienes más de dos opciones? Puedes meter un Si - Entonces dentro de otro Si - Entonces. Esto te permite evaluar múltiples condiciones en cadena.
+#### Pseudocódigo:
+Si (condicion1) Entonces<br>
+&emsp;// Acciones si condicion1 es verdadera<br>
+Sino<br>
+&emsp;Si (condicion2) Entonces<br>
+&emsp;&emsp;// Acciones si condicion1 fue falsa, pero condicion2 es verdadera<br>
+&emsp;Sino<br>
+&emsp;&emsp;// Acciones si ambas condiciones fueron falsas<br>
+&emsp;FinSi<br>
+FinSi<br>
+#### Diagrama de flujo:
