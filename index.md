@@ -38,5 +38,3 @@ No tuve ninguna dificultad a la hora de realisar este actividad.<br>
 Siento que pude entender ne manera sencilla estos temas, no se me difilcutaron demasiado y puede comprenderlos rapidamente, tuve errores en el proceso pero mientras mas practicaba cometia menos errores y mejoraba en mi manera de resolver e interpretar los problemas, espero poder seguir comprendiedo los temas de manera sencilla sin tantas dificultades y poder llegar a ser alguien en la vida.
 ### Declaracion de uso de IA
 Se utilizo IA (Gemini), para extender y mejorar la claridad de los conceptos de los temas principales y haci se pueda entender mejor de lo que se trata de hablar.
-## Unidad 2
-## Unidad 3
