@@ -1,16 +1,4 @@
-# Teoria de la Programación
-
-<div align="Center">
-<h3><b>UNIVERSIDAD NACIONAL DE LOJA</b></h3><br>
-<b>Carrera:</b> Ingeniera en Computacion<br>
-<b>Asignatura:</b> Teoria de la programacion<br>
-<b>Ciclo:</b> 1<br>
-<b>Unidad:</b> 1<br>
-<b>Docente:</b> Lissette Geoconda López Faicán<br>
-<b>Estudiante:</b> Andy Vladimir Ordoñez Namcela<br>
-</div>
-
-## Unidad 1
+# Unidad 1
 ### Algoritmo
 Un algoritmo es una secuencia ordenada definida de pasos o instrucciones para resolver un problema, realizar un cálculo o ejecutar una tarea específica. Actúa como un procedimiento sistemático que transforma datos de entrada (input) en un resultado o solución (output). Son la base de la programación y se utilizan tanto en informática como en actividades cotidianas, como una receta de cocina o el funcionamiento de las redes sociales.<br>
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/33fbf43ce10b28f08515b6d7bb7d1396071f0882/LampFlowchart-es.svg)
