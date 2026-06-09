@@ -7,9 +7,9 @@
 <b>Ciclo:</b> 1<br>
 <b>Docente:</b> Lissette Geoconda López Faicán<br>
 <b>Estudiante:</b> Andy Vladimir Ordoñez Namcela<br>
-<b>Unidad 1</b><br>
-<b>Unidad 2</b><br>
-<b>Unidad 3</b><br>
-<b>Conclusion</b><br>
-<b>Biografia</b><br>
+<h4><b>Unidad 1</b></h4><br>
+<h4><b>Unidad 2</b></h4><br>
+<h4><b>Unidad 3</b></h4><br>
+<h4><b>Conclusion</b></h4><br>
+<h4><b>Biografia</b></h4><br>
 </div>
