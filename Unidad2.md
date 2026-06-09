@@ -35,3 +35,16 @@ Sino<br>
 FinSi<br>
 #### Diagrama de flujo:
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/625e3757df3fcd01527728e49f5e5cf82db7525f/foto035.jpg)
+### 4. Estructura Condicional Múltiple (Según o En caso de)
+Cuando tienes una sola variable que puede tomar muchos valores específicos (como un menú de opciones o los días de la semana), usar muchos Si anidados se vuelve una pesadilla visual. Para eso existe la estructura múltiple (el famoso Switch en lenguajes como C++ o Java).
+#### Pseudocódigo:
+Segun (variable) Hacer<br>
+&emsp;valor1:<br>
+&emsp;&emsp;// Acciones para valor1<br>
+&emsp;valor2:<br>
+&emsp;&emsp;// Acciones para valor2<br>
+&emsp;De Otro Modo:<br>
+&emsp;// Acciones si no coincide con ningún valor anterior<br>
+FinSegun<br>
+#### Diagrama de flujo:
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/625e3757df3fcd01527728e49f5e5cf82db7525f/foto035.jpg)
