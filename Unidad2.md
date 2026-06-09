@@ -6,8 +6,8 @@ Básicamente, le dicen a la computadora: "Si pasa X, haz Y; pero si pasa Z, haz 
 ### 1. Estructura Condicional Simple (Si - Entonces)
 Es la forma más básica. Evalúa una condición: si se cumple (es verdadera), ejecuta un bloque de código. Si no se cumple (es falsa), simplemente se salta ese bloque y continúa con el resto del programa.
 #### Codigo ejemplo:
-Si (condicion) Entonces
-    // Acción o acciones a realizar si la condición es verdadera
-FinSi
+Si (condicion) Entonces<br>
+    // Acción o acciones a realizar si la condición es verdadera<br>
+FinSi<br>
 #### Diagrama ejemplo
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/de3e33e10cad9df7c5d85c23174d9d95c3c1e458/foto031.jpg)
