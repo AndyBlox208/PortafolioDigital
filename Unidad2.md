@@ -34,3 +34,4 @@ Sino<br>
 &emsp;FinSi<br>
 FinSi<br>
 #### Diagrama de flujo:
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/625e3757df3fcd01527728e49f5e5cf82db7525f/foto035.jpg)
