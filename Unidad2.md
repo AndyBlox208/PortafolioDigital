@@ -93,3 +93,5 @@ Analizando el porblema podemos identificar que necesitaremos 1 datos de entrada 
 | 5 | 4 | 6 | 24 |
 | 5 | 5 | 24 | 120 |
 ## Principales dificultades y reflexión crítica
+Una de mis principales dificultades a la hora de realizar este codigo fue hacer la multiplicacion, pues los resultados eran certeros mas no el procedimiento, pues las multiplicaciones que se hacian progresivamente no eran correctas y eso se tenia que corregir.
+Gracias a este tipo de trabajos me ayuda a darme cuenta la importancia de los ciclos repetitivos y las condiciones que nos permiten tener un mejor control de todo el programa y lo que queremos realizar, ademas de ahorrar memoria y hacer mas rapidos los programas. 
