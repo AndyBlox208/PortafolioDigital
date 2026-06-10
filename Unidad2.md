@@ -57,4 +57,12 @@ Mientras (condicion) Hacer<br>
 &emsp;// Instrucciones que se repiten<br>
 FinMientras<br>
 #### Diagrama de flujo:
-![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/9f49aaceb7501e557274f87246e8c4d28fd80882/1-diagra-de-flujo-estructura-selectiva-multiple-768x402.png)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/479b4ed70bb8deccdee86a84bfae7e354ffb1da8/foto042.jpg)
+### 2. Estructura Repetir - Hasta Que (Bucle Do-While / Repeat-Until)
+A diferencia del anterior, este es un bucle post-test. Esto significa que primero ejecuta las instrucciones y después evalúa la condición. Por lo tanto, el código de adentro se va a ejecutar al menos una vez, pase lo que pase.
+#### Pseudocódigo:
+Repetir<br>
+&emsp;// Instrucciones que se ejecutan al menos una vez<br>
+Hasta Que (condicion_de_parada)<br>
+#### Diagrama de flujo:
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/479b4ed70bb8deccdee86a84bfae7e354ffb1da8/foto042.jpg)
