@@ -73,4 +73,13 @@ Para variable_control <- valor_inicial Hasta valor_final Con Paso incremento Hac
 &emsp;// Instrucciones que se repiten<br>
 FinPara<br>
 #### Diagrama de flujo:
-![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/3ec1c7af6612e56722e644c13bc9bc25beaa58ca/repetir-hasta-que-diagrama-de-flujo.png)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/ae03a0e10070ea838d449339ae01b0634db86b05/foto033%20(1).jpg)
+## Ejercicio con estructura condicuonal
+### Planteamiento de problema
+Deseamos poder realizar un programa que nos permita ingresar cualquier numero positivo y entonces sacar el factorial de este numero y tambien mostrar como la cantidad va llegando poco a poco a la respuesta, el programador debe ingeniarselas para poder realizar este problema.
+### Amalisis del problema
+Analizando el porblema podemos identificar que necesitaremos 1 datos de entrada como el numero que va a ingresar el usuario, 1 contador que no va a ayudar a tener control del ciclo y 1 acumulador que nos va a ayudar a ir acumulando las multiplicaciones y haci poder sacar el resultado final.
+### Diagrama de flujo
+### Codificacion
+### Validacion
+## Principales dificultades y reflexión crítica
