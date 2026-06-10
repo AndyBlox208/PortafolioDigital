@@ -1,10 +1,10 @@
 <div align="Center">
   <h1><b>UNIVERSIDAD NACIONAL DE LOJA</b></h1><br>
-  <b>Carrera:</b> Ingeniera en Computacion<br>
-  <b>Asignatura:</b> Teoria de la programacion<br>
-  <b>Docente:</b> Lissette Geoconda López Faicán<br>
-  <b>Estudiante:</b> Andy Vladimir Ordoñez Namcela<br>
-  <b>Ciclo:</b> 1<br>
+  <h2><b>Carrera:</b> Ingeniera en Computacion<h2><br>
+  <h2><b>Asignatura:</b> Teoria de la programacion<h2><br>
+  <h2><b>Docente:</b> Lissette Geoconda López Faicán<h2><br>
+  <h2><b>Estudiante:</b> Andy Vladimir Ordoñez Namcela<h2><br>
+  <h2><b>Ciclo:</b> 1<h2><br>
 </div>
 
 ## [Unidad 1](index.md)
