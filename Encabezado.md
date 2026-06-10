@@ -1,5 +1,5 @@
 <div align="Center">
-  <b>UNIVERSIDAD NACIONAL DE LOJA</b><br>
+  <h1><b>UNIVERSIDAD NACIONAL DE LOJA</b></h1><br>
   <b>Carrera:</b> Ingeniera en Computacion<br>
   <b>Asignatura:</b> Teoria de la programacion<br>
   <b>Docente:</b> Lissette Geoconda López Faicán<br>
