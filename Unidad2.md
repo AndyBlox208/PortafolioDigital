@@ -65,4 +65,12 @@ Repetir<br>
 &emsp;// Instrucciones que se ejecutan al menos una vez<br>
 Hasta Que (condicion_de_parada)<br>
 #### Diagrama de flujo:
-![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/479b4ed70bb8deccdee86a84bfae7e354ffb1da8/foto042.jpg)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/3ec1c7af6612e56722e644c13bc9bc25beaa58ca/repetir-hasta-que-diagrama-de-flujo.png)
+### 3. Estructura Para (Bucle For)
+Esta estructura es la mejor opción cuando sabes de antemano exactamente cuántas veces quieres que se repita el código. Automáticamente maneja una variable contadora, su valor inicial, su valor final y cuánto aumenta en cada vuelta (paso).
+#### Pseudocódigo:
+Para variable_control <- valor_inicial Hasta valor_final Con Paso incremento Hacer<br>
+&emsp;// Instrucciones que se repiten<br>
+FinPara<br>
+#### Diagrama de flujo:
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/3ec1c7af6612e56722e644c13bc9bc25beaa58ca/repetir-hasta-que-diagrama-de-flujo.png)
