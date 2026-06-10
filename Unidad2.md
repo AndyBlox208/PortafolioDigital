@@ -82,6 +82,6 @@ Analizando el porblema podemos identificar que necesitaremos 1 datos de entrada 
 ### Diagrama de flujo
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4953970e08c17e5d6200fb749fbaf781b85e2def/Captura%20de%20pantalla%202026-06-09%20205635.png)
 ### Codificacion
-![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4953970e08c17e5d6200fb749fbaf781b85e2def/Captura%20de%20pantalla%202026-06-09%20205635.png)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/5508023344e2a574bf5a64cccd8a62c17c6fa147/Captura%20de%20pantalla%202026-06-09%20210156.png)
 ### Validacion
 ## Principales dificultades y reflexión crítica
