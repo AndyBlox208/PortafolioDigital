@@ -12,3 +12,4 @@
 ## [Unidad 3](Unidad3.md)
 ## [Conclusion](Conclusion.md)
 ## [Bibliografías](Bibliografías.md)
+## [Declaracion de uso de IA](DeclaracionIA.md)
