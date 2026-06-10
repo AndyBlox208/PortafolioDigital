@@ -80,6 +80,8 @@ Deseamos poder realizar un programa que nos permita ingresar cualquier numero po
 ### Amalisis del problema
 Analizando el porblema podemos identificar que necesitaremos 1 datos de entrada como el numero que va a ingresar el usuario, 1 contador que no va a ayudar a tener control del ciclo y 1 acumulador que nos va a ayudar a ir acumulando las multiplicaciones y haci poder sacar el resultado final.
 ### Diagrama de flujo
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4953970e08c17e5d6200fb749fbaf781b85e2def/Captura%20de%20pantalla%202026-06-09%20205635.png)
 ### Codificacion
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/4953970e08c17e5d6200fb749fbaf781b85e2def/Captura%20de%20pantalla%202026-06-09%20205635.png)
 ### Validacion
 ## Principales dificultades y reflexión crítica
