@@ -47,4 +47,14 @@ Segun (variable) Hacer<br>
 &emsp;// Acciones si no coincide con ningún valor anterior<br>
 FinSegun<br>
 #### Diagrama de flujo:
-![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/625e3757df3fcd01527728e49f5e5cf82db7525f/foto035.jpg)
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/9f49aaceb7501e557274f87246e8c4d28fd80882/1-diagra-de-flujo-estructura-selectiva-multiple-768x402.png)
+## Estructuras repetitivas
+Sirven para ejecutar un bloque de instrucciones una y otra vez mientras se cumpla una condición o hasta que se alcance un número determinado de repeticiones. Imagina tener que escribir Escribir "Hola Mundo" 500 veces... para eso existen los bucles.
+### 1. Estructura Mientras (Bucle While)
+Es una estructura pre-test, lo que significa que primero evalúa la condición y, si es verdadera, ejecuta el código de su interior. Si la condición es falsa desde el principio, el bloque de código nunca se ejecutará.
+#### Pseudocódigo:
+Mientras (condicion) Hacer<br>
+&emsp;// Instrucciones que se repiten<br>
+FinMientras<br>
+#### Diagrama de flujo:
+![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/9f49aaceb7501e557274f87246e8c4d28fd80882/1-diagra-de-flujo-estructura-selectiva-multiple-768x402.png)
