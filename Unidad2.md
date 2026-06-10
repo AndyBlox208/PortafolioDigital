@@ -84,4 +84,12 @@ Analizando el porblema podemos identificar que necesitaremos 1 datos de entrada 
 ### Codificacion
 ![Imagen alt](https://github.com/AndyBlox208/PortafolioDigital/blob/5508023344e2a574bf5a64cccd8a62c17c6fa147/Captura%20de%20pantalla%202026-06-09%20210156.png)
 ### Validacion
+| n | a | acum  | Salida |
+| :---: | :---: | :---: | :---: |
+| 0 | 0 | 1 |  |
+| 5 | 1 | 1 | 1 |
+| 5 | 2 | 1 | 2 |
+| 5 | 3 | 2 | 6 |
+| 5 | 4 | 6 | 24 |
+| 5 | 5 | 24 | 120 |
 ## Principales dificultades y reflexión crítica
