@@ -1,3 +1,4 @@
+[<< Regresar](https://github.com/AndyBlox208/PortafolioDigital/blob/main/Encabezado.md)
 # Bibliografías
 [1] V. L. Valverde González, J. E. Cajamarca Villa y G. V. Moreano Sánchez, Fundamentos de Programación con DFD-PSeInt-Python. Ecuador: Editorial CIDE, 2023.<br>
 [2] L. Joyanes Aguilar, Fundamentos de programación: Algoritmos, estructura de datos y objetos, 5.ª ed. Ciudad de México, México: McGraw-Hill, 2020.<br>
