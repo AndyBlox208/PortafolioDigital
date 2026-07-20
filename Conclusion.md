@@ -1,2 +1,5 @@
 [<< Regresar](https://github.com/AndyBlox208/PortafolioDigital/blob/main/Encabezado.md)
 # Conclusion
+En conclusión, el estudio de la programación inicia con una sólida comprensión de los fundamentos de algoritmos y programas, abordando desde los conceptos básicos para resolver problemas hasta el manejo de variables, tipos de datos y expresiones. A partir de esta base, se avanza hacia el dominio de las estructuras algorítmicas de control, las cuales son esenciales para dirigir el flujo de ejecución de un programa mediante el uso de condicionales (simples, dobles, múltiples y anidadas) y estructuras repetitivas como *Para*, *Mientras* y *Hacer... Mientras*.
+
+Posteriormente, a medida que aumenta la complejidad de los problemas, se vuelve indispensable organizar el código y manejar la información de manera más eficiente a través de la programación modular y las estructuras de datos estáticas. La implementación de módulos y funciones permite dividir los sistemas en partes manejables para su resolución, mientras que el uso de arreglos (unidimensionales, bidimensionales y multidimensionales) facilita el almacenamiento estructurado de la información.
