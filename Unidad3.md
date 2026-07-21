@@ -11,14 +11,20 @@ Cuando pasas un parámetro por valor, el programa le entrega a la función una c
 
 **Ejemplo:**
 
-<img width="567" height="395" alt="image" src="https://github.com/user-attachments/assets/98f9399b-936b-4fe7-bb24-b3efa2e20208" />
+En este ejemplo, usamos el pase por valor para calcular una predicción. Queremos saber cuánto dinero tendríamos en un año si aplicamos un 5% de interés, pero sin modificar el saldo real de nuestra cuenta todavía.
+
+<img width="732" height="482" alt="image" src="https://github.com/user-attachments/assets/b55fb5f2-dabc-4ae6-a9eb-d4254392cf4a" />
+<img width="600" height="93" alt="image" src="https://github.com/user-attachments/assets/86959d6c-d715-418c-8afb-c00dde828a0a" />
 
 ### 2. Pase de parámetro por referencia
 Cuando pasas un parámetro por referencia, no envías una copia del dato, sino la dirección de memoria donde vive la variable original. Esto significa que la función tiene acceso directo al dato real. Cualquier cambio que haga la función afectará permanentemente a la variable original.
 
 **Ejemplo:**
 
-<img width="812" height="461" alt="image" src="https://github.com/user-attachments/assets/cce9be32-d298-401f-860b-594a31d744a1" />
+Aquí usamos punteros (referencia en C) para actualizar la posición de un objeto en movimiento. Al pasar la dirección de memoria, la función aplica la fórmula de Movimiento Rectilíneo Uniforme y altera permanentemente la variable original.
+
+<img width="801" height="507" alt="image" src="https://github.com/user-attachments/assets/269ae949-f623-4db8-b551-dc1ca21aefd4" />
+<img width="600" height="93" alt="image" src="https://github.com/user-attachments/assets/fc5f21b9-1363-4a26-90ce-34243abbc16c" />
 
 ## Arreglos (Arrays)
 Un arreglo es una estructura de datos que te permite almacenar una colección de elementos del mismo tipo (por ejemplo, una lista de puros números enteros, o puros textos) bajo un solo nombre de variable. Los datos se guardan en posiciones de memoria contiguas y se accede a ellos a través de un índice, el cual casi siempre comienza en 0.
@@ -29,14 +35,20 @@ Es una estructura lineal, similar a una lista de elementos acomodados en una sol
 
 **Ejemplo:**
 
-<img width="788" height="272" alt="image" src="https://github.com/user-attachments/assets/6354e920-a6ec-428a-8a53-ee9a4d5a3680" />
+Usaremos un vector para almacenar los datos históricos de ventas y predecir el próximo mes utilizando un cálculo de promedio móvil simple.
+
+<img width="817" height="436" alt="image" src="https://github.com/user-attachments/assets/ce7771d2-133a-44a8-b25f-2f07a72dbdaa" />
+<img width="601" height="65" alt="image" src="https://github.com/user-attachments/assets/172acdec-a10f-46de-8243-4bbdc7571915" />
 
 ### 2. Arreglos Bidimensionales (Matrices)
 Son "arreglos de arreglos". El caso más común es el arreglo bidimensional, que funciona exactamente como una tabla o cuadrícula de Excel, estructurada en filas y columnas.
 
 **Ejemplo:**
 
-<img width="582" height="343" alt="image" src="https://github.com/user-attachments/assets/7ece8e41-1e74-4c2e-8c9e-2da1e28ecac5" />
+Una matriz que representa la producción de dos fábricas diferentes durante un trimestre. Haremos un cálculo para sumar el rendimiento total de una fábrica específica.
+
+<img width="755" height="491" alt="image" src="https://github.com/user-attachments/assets/8b27a6d5-081f-41b6-91ba-ae60746eef73" />
+<img width="600" height="75" alt="image" src="https://github.com/user-attachments/assets/ceeb0793-11eb-44dc-a77f-06ec1620ec46" />
 
 ### 3. Arreglos Tridimensionales
 Un arreglo tridimensional añade una dimensión más a la matriz, lo que significa que es un "arreglo de matrices".
@@ -45,8 +57,10 @@ Si un arreglo unidimensional es una línea y un bidimensional es una tabla plana
 
 **Ejemplo:**
 
-<img width="811" height="676" alt="image" src="https://github.com/user-attachments/assets/05eabc59-8dcf-4163-9369-dc323d4a1deb" />
+El cubo de datos almacenará temperaturas. Las dimensiones serán: años, meses y días. Calcularemos la temperatura promedio de un mes específico dentro de un año específico.
 
+<img width="745" height="726" alt="image" src="https://github.com/user-attachments/assets/c587ac11-4809-4e74-94d1-3e3a5cca4819" />
+<img width="600" height="71" alt="image" src="https://github.com/user-attachments/assets/3be249cb-0b7a-443e-ac73-340567fcfa14" />
 
 ## Principales dificultades y reflexión crítica
 Mi unica dificultad en este trabajo fue tratar de analizar y comprender mejor las modularidades, pues se me dificultaba entender la diferencia entre ambos y que hace cada uno, pero ahora lo entiendo mejor y puedo estimar que las modularidades y los arreglos son muy esensiales en la programacion, pues nos pueden ayudar a simplicar trabajos y codigos, facilitando mas el trabajo a las computadoras y mejorar la comprencion del codigo mismo.
