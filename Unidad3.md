@@ -52,7 +52,7 @@ Una matriz que representa la producción de dos fábricas diferentes durante un 
 <img width="755" height="491" alt="image" src="https://github.com/user-attachments/assets/8b27a6d5-081f-41b6-91ba-ae60746eef73" />
 <img width="600" height="75" alt="image" src="https://github.com/user-attachments/assets/ceeb0793-11eb-44dc-a77f-06ec1620ec46" />
 
-### 3. Arreglos Tridimensionales
+### 3. Arreglos Tridimensionales (Cubo)
 Un arreglo tridimensional añade una dimensión más a la matriz, lo que significa que es un "arreglo de matrices".
 
 Si un arreglo unidimensional es una línea y un bidimensional es una tabla plana (filas y columnas), el tridimensional añade profundidad (o capas).
