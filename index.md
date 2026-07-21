@@ -1,4 +1,5 @@
-[<< Regresar](https://github.com/AndyBlox208/PortafolioDigital/blob/main/Encabezado.md)
+[<< Regresar al indice](https://github.com/AndyBlox208/PortafolioDigital/blob/main/Encabezado.md)
+[Unidad 2 >>](Unidad2.md)
 # Unidad 1
 ### Algoritmo
 Un algoritmo es una secuencia ordenada definida de pasos o instrucciones para resolver un problema, realizar un cálculo o ejecutar una tarea específica. Actúa como un procedimiento sistemático que transforma datos de entrada (input) en un resultado o solución (output). Son la base de la programación y se utilizan tanto en informática como en actividades cotidianas, como una receta de cocina o el funcionamiento de las redes sociales.<br>
