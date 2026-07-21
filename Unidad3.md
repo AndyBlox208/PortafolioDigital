@@ -1,4 +1,4 @@
-[<< Regresar](https://github.com/AndyBlox208/PortafolioDigital/blob/main/Encabezado.md)
+[<< Regresar al indice](https://github.com/AndyBlox208/PortafolioDigital/blob/main/Encabezado.md)
 # Unidad 3
 ## Modularidad
 La modularidad es el principio de dividir un programa grande y complejo en fragmentos más pequeños, independientes y enfocados en una sola tarea. A estos fragmentos los llamamos módulos (también conocidos como funciones, métodos o procedimientos).
