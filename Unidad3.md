@@ -9,10 +9,14 @@ Cuando el programa principal necesita usar un módulo, le envía información a 
 ### 1. Pase de parámetro por valor
 Cuando pasas un parámetro por valor, el programa le entrega a la función una copia exacta de la variable original. Si la función modifica ese dato, solo está alterando su copia local; la variable original permanece intacta.
 
+**Ejemplo:**
+
 <img width="567" height="395" alt="image" src="https://github.com/user-attachments/assets/98f9399b-936b-4fe7-bb24-b3efa2e20208" />
 
 ### 2. Pase de parámetro por referencia
 Cuando pasas un parámetro por referencia, no envías una copia del dato, sino la dirección de memoria donde vive la variable original. Esto significa que la función tiene acceso directo al dato real. Cualquier cambio que haga la función afectará permanentemente a la variable original.
+
+**Ejemplo:**
 
 <img width="812" height="461" alt="image" src="https://github.com/user-attachments/assets/cce9be32-d298-401f-860b-594a31d744a1" />
 
@@ -23,10 +27,14 @@ Existen dos categorías principales:
 ### 1. Arreglos Unidimensionales (Vectores)
 Es una estructura lineal, similar a una lista de elementos acomodados en una sola fila o columna.
 
+**Ejemplo:**
+
 <img width="788" height="272" alt="image" src="https://github.com/user-attachments/assets/6354e920-a6ec-428a-8a53-ee9a4d5a3680" />
 
 ### 2. Arreglos Bidimensionales (Matrices)
 Son "arreglos de arreglos". El caso más común es el arreglo bidimensional, que funciona exactamente como una tabla o cuadrícula de Excel, estructurada en filas y columnas.
+
+**Ejemplo:**
 
 <img width="582" height="343" alt="image" src="https://github.com/user-attachments/assets/7ece8e41-1e74-4c2e-8c9e-2da1e28ecac5" />
 
@@ -34,6 +42,8 @@ Son "arreglos de arreglos". El caso más común es el arreglo bidimensional, que
 Un arreglo tridimensional añade una dimensión más a la matriz, lo que significa que es un "arreglo de matrices".
 
 Si un arreglo unidimensional es una línea y un bidimensional es una tabla plana (filas y columnas), el tridimensional añade profundidad (o capas).
+
+**Ejemplo:**
 
 <img width="811" height="676" alt="image" src="https://github.com/user-attachments/assets/05eabc59-8dcf-4163-9369-dc323d4a1deb" />
 
