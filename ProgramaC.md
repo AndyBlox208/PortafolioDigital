@@ -1,6 +1,6 @@
 <div align="center">
     
-# Codificación y Validación del programa
+# Codificación y Validación del programa en C
 
 </div>
 
@@ -90,6 +90,6 @@ void mostrarResultado(const char* nombreOperacion, int matriz[FILAS][COLUMNAS]) 
     }
 }
 ```
-## Casos de prueba
+## Casos de prueba en C
 
 <img width="583" height="663" alt="image" src="https://github.com/user-attachments/assets/2e16f7b8-5dd7-41f1-87ad-4f1ce6d64047" />
